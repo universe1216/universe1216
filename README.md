@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Yurii Vashkevych<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/shravyarao889/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+and+Blockchain+Developer;&center=true&width=400&height=50"></a>
+  <a href="https://github.com/shravyarao889/readme-typing-svg"><i><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+and+Blockchain+Developer;&center=true&width=400&height=50"></i></a>
 </p>
 <div align="center">
 <img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
@@ -13,6 +13,7 @@
   As a passionate and skilled software developer, I specialize in creating innovative and efficient solutions tailored to meet your unique needs. With expertise in various programming languages such as Java, Python, and Javascript, I built robust applications and websites that enhance user experience and drive results. I thrive on collaboration, ensuring clear communication throughout the project lifecycle. My commitment to quality, attention to detail, and ability to adapt to evolving technologies enable me to deliver high-performance software on time and within budget.
 <i>
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="250px" height="200px" align="right"/>
+
 - 🌱 I’m currently learning advanced web development and machine learning.
 - 👯 I’m looking to collaborate on innovative projects and open-source contributions.
 - 🤔 I’m looking for help with mastering Kubernetes and Docker.

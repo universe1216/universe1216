@@ -9,7 +9,10 @@
 <div width="80%">
   
 ## 🚀 About Me 
-As a passionate and skilled software developer, I specialize in creating innovative and efficient solutions tailored to meet your unique needs. With expertise in various programming languages such as Java, Python, and Javascript, I built robust applications and websites that enhance user experience and drive results. I thrive on collaboration, ensuring clear communication throughout the project lifecycle. My commitment to quality, attention to detail, and ability to adapt to evolving technologies enable me to deliver high-performance software on time and within budget.
+<p>
+  As a passionate and skilled software developer, I specialize in creating innovative and efficient solutions tailored to meet your unique needs. With expertise in various programming languages such as Java, Python, and Javascript, I built robust applications and websites that enhance user experience and drive results. I thrive on collaboration, ensuring clear communication throughout the project lifecycle. My commitment to quality, attention to detail, and ability to adapt to evolving technologies enable me to deliver high-performance software on time and within budget.
+</p>
+
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="250px" height="200px" align="right"/>
 <i>
 - 🌱 I’m currently learning advanced web development and machine learning.

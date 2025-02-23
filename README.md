@@ -9,16 +9,16 @@
 <div width="80%">
   
 ## 🚀 About Me 
-<i>As a passionate and skilled software developer, I specialize in creating innovative and efficient solutions tailored to meet your unique needs. With expertise in various programming languages such as Java, Python, and Javascript, I built robust applications and websites that enhance user experience and drive results. I thrive on collaboration, ensuring clear communication throughout the project lifecycle. My commitment to quality, attention to detail, and ability to adapt to evolving technologies enable me to deliver high-performance software on time and within budget.</i>
+As a passionate and skilled software developer, I specialize in creating innovative and efficient solutions tailored to meet your unique needs. With expertise in various programming languages such as Java, Python, and Javascript, I built robust applications and websites that enhance user experience and drive results. I thrive on collaboration, ensuring clear communication throughout the project lifecycle. My commitment to quality, attention to detail, and ability to adapt to evolving technologies enable me to deliver high-performance software on time and within budget.
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="250px" height="200px" align="right"/>
-
+<i>
 - 🌱 I’m currently learning advanced web development and machine learning.
 - 👯 I’m looking to collaborate on innovative projects and open-source contributions.
 - 🤔 I’m looking for help with mastering Kubernetes and Docker.
 - 💬 Ask me about web development, Python, JavaScript, and open-source contributions.
 - 📫 How to reach me:  venuswillie1216@gmail.com
 - ⚡ Fun fact: I love stargazing and exploring the universe through my telescope.
-
+</i>
 
 ## 🛠️ Languages and Tools
 <table><tr><td valign="top" width="33%">

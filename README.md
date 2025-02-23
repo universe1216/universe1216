@@ -1,8 +1,10 @@
-# Hi there, I'm Universe1216! 👋
+<h1 align="center">Hi , I'm Yurii Vashkevych<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/shravyarao889/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+and+Blockchain+Developer;&center=true&width=400&height=50"></a>
+</p>
+<img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
 
-Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and working on exciting projects. Here's a bit about me:
-
-## 🚀 About Me
+## 🚀 About Me 
 - 🔭 I’m currently working on various open-source projects.
 - 🌱 I’m currently learning advanced web development and machine learning.
 - 👯 I’m looking to collaborate on innovative projects and open-source contributions.

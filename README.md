@@ -6,7 +6,7 @@
 <img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
 </div>
 
-
+<div width="80%">
 ## 🚀 About Me 
 <i>As a passionate and skilled software developer, I specialize in creating innovative and efficient solutions tailored to meet your unique needs. With expertise in various programming languages such as Java, Python, and Javascript, I built robust applications and websites that enhance user experience and drive results. I thrive on collaboration, ensuring clear communication throughout the project lifecycle. My commitment to quality, attention to detail, and ability to adapt to evolving technologies enable me to deliver high-performance software on time and within budget.</i>
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="250px" height="200px" align="right"/>
@@ -82,5 +82,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=universe1216&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
+</div>
 </div>
 

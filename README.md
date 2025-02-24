@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on innovative projects and open-source contributions.
 - 🤔 I’m looking for help with mastering Kubernetes and Docker.
 - 💬 Ask me about web development, Python, JavaScript, and open-source contributions.
-- 📫 How to reach me:  venuswillie1216@gmail.com
+- 📫 How to reach me:  urijvaskevic2@gmail.com
 - ⚡ Fun fact: I love stargazing and exploring the universe through my telescope.
 </i>
 </p>

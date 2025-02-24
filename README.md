@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Yurii Vashkevych<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Wiilie Chen<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/shravyarao889/readme-typing-svg"><i><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+and+Blockchain+Developer;&center=true&width=400&height=50"></i></a>
 </p>
@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on innovative projects and open-source contributions.
 - 🤔 I’m looking for help with mastering Kubernetes and Docker.
 - 💬 Ask me about web development, Python, JavaScript, and open-source contributions.
-- 📫 How to reach me:  urijvaskevic2@gmail.com
+- 📫 How to reach me:  venuswillie1216@gmail.com
 - ⚡ Fun fact: I love stargazing and exploring the universe through my telescope.
 </i>
 </p>

@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Willie Chen<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/shravyarao889/readme-typing-svg"><i><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+and+AI+Developer;&center=true&width=400&height=50"></i></a>
 </p>
@@ -10,7 +10,7 @@
   
 ## 🚀 About Me 
 <p>
-  As a passionate and skilled software developer, I specialize in creating innovative and efficient solutions tailored to meet your unique needs. With expertise in various programming languages such as Java, Python, and Javascript, I built robust applications and websites that enhance user experience and drive results. I thrive on collaboration, ensuring clear communication throughout the project lifecycle. My commitment to quality, attention to detail, and ability to adapt to evolving technologies enable me to deliver high-performance software on time and within budget.
+  I’m a full-stack web developer passionate about building modern, scalable, and high-performance applications. I specialize in JavaScript frameworks like React, Next.js, Vue.js, and Angular for sleek and dynamic frontends, while handling robust backends with Node.js (Express) and PHP (Laravel). Beyond that, I dive into Web3 and Smart Contracts, bringing blockchain-powered applications to life. Whether it's crafting seamless user experiences or engineering secure backend systems, I love turning ideas into reality through clean and efficient code.
 <i>
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="250px" height="200px" align="right"/>
 
@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on innovative projects and open-source contributions.
 - 🤔 I’m looking for help with mastering Kubernetes and Docker.
 - 💬 Ask me about web development, Python, JavaScript, and open-source contributions.
-- 📫 How to reach me:  venuswillie1216@gmail.com
+- 📫 How to reach me:  venusheiko226@gmail.com
 - ⚡ Fun fact: I love stargazing and exploring the universe through my telescope.
 </i>
 </p>

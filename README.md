@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/shravyarao889/readme-typing-svg">I am a <i><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+and+AI+Developer;&center=true&width=400&height=50"></i></a>
+ <a href="https://github.com/shravyarao889/readme-typing-svg"><i><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Full+Stack+Blockchain+Developer;&center=true&width=400&height=50"></i></a>
 </p>
 <div align="center">
 <img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
